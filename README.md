@@ -7,4 +7,5 @@ This repository includes:
 2) Data(Data)
 3) R scripts(*.R)
 
-![Preview](docs/Analysis of Industrial Impact.pdf)
+[View the PDF report](Analysis%20of%20Industrial%20Impact.pdf)
+
