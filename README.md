@@ -6,3 +6,5 @@ This repository includes:
 1) Project description(Analysis of Industrial Impact.pdf)
 2) Data(Data)
 3) R scripts(*.R)
+
+![Preview](Analysis of Industrial Impact.pdf)
